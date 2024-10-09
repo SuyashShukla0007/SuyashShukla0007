@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CarRental**
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **Web-developement**
 
