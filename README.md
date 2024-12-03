@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suyash Shukla</h1>
 <h3 align="center">A  full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyashshukla0007&label=Profile%20views&color=0e75b6&style=flat" alt="suyashshukla0007" /> </p>
 
+[![](https://visitcount.itsvg.in/api?id=SuyashShukla0007&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **MeediMeet**
 
 - 🌱 I’m currently learning **Docker**
