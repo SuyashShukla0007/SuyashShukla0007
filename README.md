@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=SuyashShukla0007&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
 - 🔭 I’m currently working on **MeediMeet**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **PhaserJs**
 
 - 💬 Ask me about **Web-developement**
 
